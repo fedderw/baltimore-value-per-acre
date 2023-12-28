@@ -1,0 +1,11 @@
+pandas
+geopandas
+black
+pyjanitor
+streamlit
+folium
+streamlit-folium
+tqdm
+matplotlib
+mapclassify
+pydeck
